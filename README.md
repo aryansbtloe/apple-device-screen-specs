@@ -36,7 +36,7 @@ console.log(iphone.screen.logical_resolution_pt); // { width: 402, height: 874 }
 console.log(iphone.css);                          // { viewport_width: 402, viewport_height: 874, device_pixel_ratio: 3 }
 ```
 
-To get a stable, cacheable URL, pin a tag instead of `@main`, for example `@v0.1.0`. The `v0.1.0` tag will be created at release; until then, pin to `@main`.
+To get a stable, cacheable URL, pin a tag instead of `@main`, for example `@v0.1.0`. For example, `https://cdn.jsdelivr.net/gh/aryansbtloe/apple-device-screen-specs@v0.1.0/data/devices.json`.
 
 ### Static JSON API
 

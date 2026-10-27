@@ -1,6 +1,6 @@
 # Apple Device Screen Specs
 
-An open, source-linked dataset of the screen specs of **every iPhone, iPad, iPod touch and Apple Watch**, with partial coverage of Mac built-in displays and Apple Vision Pro. Each value is tied to an Apple Tech Specs page or the Apple Human Interface Guidelines. Anything Apple hasn't published is left `null` and listed in [`reports/gaps.md`](reports/gaps.md). Nothing is guessed.
+An open, source-linked dataset of the screen specs of **every iPhone, iPad, iPod touch and Apple Watch**, with partial coverage of Mac built-in displays and Apple Vision Pro. Each value is tied to an Apple Tech Specs page or the Apple Human Interface Guidelines, or was measured in the Xcode Simulator (safe areas and corner radius, which Apple doesn't publish). Anything Apple hasn't published is left `null` and listed in [`reports/gaps.md`](reports/gaps.md). Nothing is guessed.
 
 Maintained by **[bestlatestapps.com](https://bestlatestapps.com/)**. You can browse the iPhone data as a table in the [iPhone screen sizes tool](https://bestlatestapps.com/tools/iphone-screen-sizes/).
 
@@ -36,11 +36,11 @@ console.log(iphone.screen.logical_resolution_pt); // { width: 402, height: 874 }
 console.log(iphone.css);                          // { viewport_width: 402, viewport_height: 874, device_pixel_ratio: 3 }
 ```
 
-To get a stable, cacheable URL, pin a tag instead of `@main`, for example `@v0.1.0`.
+To get a stable, cacheable URL, pin a tag instead of `@main`, for example `@v0.1.0`. The `v0.1.0` tag will be created at release; until then, pin to `@main`.
 
-### Static JSON API (planned)
+### Static JSON API (coming soon)
 
-`https://bestlatestapps.com/api/devices.json` *(planned, not live yet)*. It will serve the same file, with per-family and per-device endpoints (see [PLAN.md](PLAN.md)).
+`https://bestlatestapps.com/api/devices.json` and `https://bestlatestapps.com/api/devices.min.json` *(coming soon, not live yet)*. They will serve the same data with CORS and no key, plus per-family and per-device endpoints (see [PLAN.md](PLAN.md)). Until then, use the jsDelivr URL above.
 
 ### npm (planned)
 
@@ -93,10 +93,10 @@ Top level: `{ meta, devices[] }`. `meta` holds `version`, `generated`, `count`, 
 | `screen.display_marketing_name` | string | e.g. "Super Retina XDR" or "Liquid Retina" |
 | `screen.refresh_rate_max_hz` | int or null | 120 for ProMotion. Null when Apple doesn't state a rate |
 | `screen.promotion`, `screen.always_on` | bool | Features from the spec page |
-| `screen.corner_radius_pt` | number or null | Not yet collected (no public Apple source) |
+| `screen.corner_radius_pt` | number or null | **Unofficial.** Display corner radius measured in the Xcode 27.1 Simulator for 103 devices. Apple doesn't publish it; null elsewhere |
 | `screen.display_area_mm2` | number | Apple Watch display area |
 | `secondary_screens[]` | object[] | Extra displays, e.g. the iPhone Duo cover screen |
-| `safe_area_insets_pt.portrait` / `.landscape` | `{top,right,bottom,left}` or null | Not yet collected. See `scripts/measure_safe_areas.swift` |
+| `safe_area_insets_pt.portrait` / `.landscape` | `{top,right,bottom,left}` or null | Key-window `safeAreaInsets` measured in the Xcode 27.1 Simulator: portrait for 56 devices, landscape for 33 (iPhones only). Null where no Simulator device type exists, and for iPad landscape |
 | `cutout` | enum | `none`, `notch`, `dynamic-island` |
 | `home_button` | bool | Physical or solid-state Home button |
 | `biometric` | enum or null | `face-id`, `touch-id`, `optic-id`, or null (none or not applicable) |
@@ -114,6 +114,14 @@ The full JSON Schema (draft 2020-12) is in [`schema/device.schema.json`](schema/
 1. **Apple Tech Specs** (support.apple.com, plus apple.com for current products) for the diagonal, pixels, PPI, display technology, ProMotion and display area.
 2. **Apple Human Interface Guidelines, Layout** for points and scale. Apple removed the device tables from the live page on 2026-09-09, so this project uses the [Wayback snapshot of 2026-07-02](https://web.archive.org/web/20260702060104/https://developer.apple.com/tutorials/data/design/human-interface-guidelines/layout.json).
 3. **Wikipedia**, only as a cross-check and for model identifiers. These values are flagged.
+4. **Xcode 27.1 Simulator** (iOS 27.0 runtime; iOS 27.1 for iPhone Duo), measured 2026-10-27 with a small probe app ([`scripts/simulator/Measure.swift`](scripts/simulator/Measure.swift), run by `scripts/simulator/run_all.sh`). It logs `UIScreen` bounds, `nativeBounds`, `scale` and `nativeScale`, plus key-window safe-area insets in portrait and landscape. It was used to:
+   - record **safe-area insets**: 56 devices in portrait and 33 in landscape. Landscape covers iPhones only, because iPadOS 27 refused programmatic rotation in its default windowing mode.
+   - record **corner radius** for 103 devices. These values are **unofficial**: they come from the private `UIScreen` `_displayCornerRadius`, or from the device type's `DeviceCornerRadius` capability when the device wasn't booted.
+   - confirm points and scale where the HIG table is missing or wrong.
+
+   Raw output is in [`sources/simulator/`](sources/simulator/). Simulator pixel density is never used for `ppi`.
+
+**Finding: iPhone 12 mini and 13 mini.** The HIG (snapshot 2026-07-02) lists them as 360×780 pt @3x. In the Simulator, `UIScreen.main.bounds` is **375×812 pt** with `scale` 3, `nativeScale` **2.88** and `nativeBounds` 1080×2340 px. The device renders a 1125×2436 canvas and downsamples it to the 1080×2340 panel, so 360×780 is just the panel divided by 3. The dataset uses 375×812 pt with `native_scale` 2.88. This was measured at the default (Standard) display zoom only, and not checked on physical hardware. See [`reports/conflicts.md`](reports/conflicts.md) #1.
 
 Known source conflicts are documented in [`reports/conflicts.md`](reports/conflicts.md), and the remaining gaps in [`reports/gaps.md`](reports/gaps.md).
 
@@ -150,10 +158,14 @@ Device specifications are Apple's published facts. This project is not affiliate
 
 ## Contributing
 
-Corrections are welcome. Every change must cite an **Apple** source: a Tech Specs page, the HIG, or developer documentation. Values measured in the Xcode Simulator are accepted with the Xcode version noted.
+Corrections are welcome. Every change must cite an **Apple** source: a Tech Specs page, the HIG, or developer documentation. Values measured in the Xcode Simulator are accepted with the Xcode and runtime versions noted.
 
 1. Edit `scripts/catalog.py`, or the parser if a new Apple page format breaks it.
 2. Run `npm run build && npm run validate`.
 3. Open a PR that includes the Apple URL. Do not submit values copied from third-party size sites.
 
-Data that would most help right now: **safe-area insets**, **Simulator-verified points** for iPhone 12/13 mini, the 2026 iPhones and iPhone Duo, and **Apple Watch model identifiers**.
+Data that would most help right now:
+- **iPad landscape safe-area insets**
+- **points for the iPhone Duo's inner display**
+- **Apple Watch model identifiers**
+- **physical-device confirmation** of the iPhone 12/13 mini values (375×812 pt, `nativeScale` 2.88), including Display Zoom

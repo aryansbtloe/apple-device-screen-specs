@@ -2,7 +2,7 @@
 
 An open, source-linked dataset of the screen specs of **every iPhone, iPad, iPod touch and Apple Watch**, with partial coverage of Mac built-in displays and Apple Vision Pro. Each value is tied to an Apple Tech Specs page or the Apple Human Interface Guidelines, or was measured in the Xcode Simulator (safe areas and corner radius, which Apple doesn't publish). Anything Apple hasn't published is left `null` and listed in [`reports/gaps.md`](reports/gaps.md). Nothing is guessed.
 
-Maintained by **[bestlatestapps.com](https://bestlatestapps.com/)**. You can browse the iPhone data as a table in the [iPhone screen sizes tool](https://bestlatestapps.com/tools/iphone-screen-sizes/).
+Maintained by **[bestlatestapps.com](https://bestlatestapps.com/)**. You can browse every device in the [Apple device screen sizes](https://bestlatestapps.com/tools/apple-device-screen-sizes/) table, or just iPhones in the [iPhone screen sizes tool](https://bestlatestapps.com/tools/iphone-screen-sizes/).
 
 | Family | Records |
 |---|---|
@@ -38,9 +38,19 @@ console.log(iphone.css);                          // { viewport_width: 402, view
 
 To get a stable, cacheable URL, pin a tag instead of `@main`, for example `@v0.1.0`. The `v0.1.0` tag will be created at release; until then, pin to `@main`.
 
-### Static JSON API (coming soon)
+### Static JSON API
 
-`https://bestlatestapps.com/api/devices.json` and `https://bestlatestapps.com/api/devices.min.json` *(coming soon, not live yet)*. They will serve the same data with CORS and no key, plus per-family and per-device endpoints (see [PLAN.md](PLAN.md)). Until then, use the jsDelivr URL above.
+The same data is served from bestlatestapps.com with CORS enabled and no key:
+
+- `https://bestlatestapps.com/api/devices.json` (all devices, pretty-printed)
+- `https://bestlatestapps.com/api/devices.min.json` (all devices, minified)
+- `https://bestlatestapps.com/api/devices.csv` (CSV)
+- `https://bestlatestapps.com/api/devices/<id>.json` (one device, for example `iphone-15.json`)
+
+```js
+const res = await fetch('https://bestlatestapps.com/api/devices/iphone-15.json');
+const device = await res.json();
+```
 
 ### npm (planned)
 
@@ -152,7 +162,7 @@ The validator checks:
 
 If you use the data, please credit it like this:
 
-> Apple device screen specs by [bestlatestapps.com](https://bestlatestapps.com/tools/iphone-screen-sizes/), CC BY 4.0
+> Apple device screen specs by [bestlatestapps.com](https://bestlatestapps.com/tools/apple-device-screen-sizes/), CC BY 4.0
 
 Device specifications are Apple's published facts. This project is not affiliated with Apple Inc.
 

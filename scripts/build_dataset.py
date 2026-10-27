@@ -415,8 +415,8 @@ for c in ALL:
 
 meta = {
     'name': 'Apple device screen specs', 'version': '0.1.0', 'generated': '2026-10-27',
-    'license': 'CC-BY-4.0', 'attribution': 'Apple device screen specs by bestlatestapps.com (https://bestlatestapps.com/tools/iphone-screen-sizes/), CC BY 4.0',
-    'homepage': 'https://bestlatestapps.com/tools/iphone-screen-sizes/',
+    'license': 'CC-BY-4.0', 'attribution': 'Apple device screen specs by bestlatestapps.com (https://bestlatestapps.com/tools/apple-device-screen-sizes/), CC BY 4.0',
+    'homepage': 'https://bestlatestapps.com/tools/apple-device-screen-sizes/',
     'count': len(devices),
     'units': {'diagonal_in': 'inches', 'resolution_px': 'physical pixels, portrait', 'logical_resolution_pt': 'points (UIKit/SwiftUI), portrait', 'display_area_mm2': 'square millimetres', 'safe_area_insets_pt': 'points'},
 }

@@ -4,8 +4,8 @@
     "version": "0.1.0",
     "generated": "2026-10-27",
     "license": "CC-BY-4.0",
-    "attribution": "Apple device screen specs by bestlatestapps.com (https://bestlatestapps.com/tools/iphone-screen-sizes/), CC BY 4.0",
-    "homepage": "https://bestlatestapps.com/tools/iphone-screen-sizes/",
+    "attribution": "Apple device screen specs by bestlatestapps.com (https://bestlatestapps.com/tools/apple-device-screen-sizes/), CC BY 4.0",
+    "homepage": "https://bestlatestapps.com/tools/apple-device-screen-sizes/",
     "count": 175,
     "units": {
       "diagonal_in": "inches",

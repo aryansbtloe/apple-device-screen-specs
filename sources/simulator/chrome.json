@@ -1,0 +1,842 @@
+{
+ "com.apple.dt.devicekit.chrome.phone": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 61,
+    "cornerRadiusY": 61
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 28,
+   "rightWidth": 28,
+   "topHeight": 111,
+   "bottomHeight": 111
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone10": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone10.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 74,
+    "cornerRadiusY": 74
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 18,
+   "rightWidth": 18,
+   "topHeight": 18,
+   "bottomHeight": 18
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone11": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone11.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 80,
+    "cornerRadiusY": 80
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 18,
+   "rightWidth": 18,
+   "topHeight": 18,
+   "bottomHeight": 18
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone12": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone12.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 80,
+    "cornerRadiusY": 80
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 18,
+   "rightWidth": 18,
+   "topHeight": 18,
+   "bottomHeight": 18
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone13": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone13.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 68,
+    "cornerRadiusY": 68
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone14": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone14.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 100,
+    "cornerRadiusY": 100
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 17,
+   "rightWidth": 17,
+   "topHeight": 17,
+   "bottomHeight": 17
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone15": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone15.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 80,
+    "cornerRadiusY": 80
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 26,
+   "rightWidth": 22,
+   "topHeight": 14,
+   "bottomHeight": 14
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone2": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone2.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 67,
+    "cornerRadiusY": 67
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 29,
+   "rightWidth": 29,
+   "topHeight": 29,
+   "bottomHeight": 29
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone3": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone3.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 65,
+    "cornerRadiusY": 65
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone4": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone4.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 68,
+    "cornerRadiusY": 68
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone5": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone5.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 75,
+    "cornerRadiusY": 75
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone6": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone6.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 70,
+    "cornerRadiusY": 70
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 29,
+   "rightWidth": 29,
+   "topHeight": 29,
+   "bottomHeight": 29
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone7": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone7.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 75,
+    "cornerRadiusY": 75
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 21,
+   "rightWidth": 21,
+   "topHeight": 21,
+   "bottomHeight": 21
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone8": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone8.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 74,
+    "cornerRadiusY": 74
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 20,
+   "rightWidth": 20,
+   "topHeight": 20,
+   "bottomHeight": 20
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.phone9": {
+  "path": "/Library/Developer/DeviceKit/Chrome/phone9.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 75,
+    "cornerRadiusY": 75
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 18,
+   "rightWidth": 18,
+   "topHeight": 18,
+   "bottomHeight": 18
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tablet": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tablet.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 48,
+    "cornerRadiusY": 48
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 47,
+   "rightWidth": 47,
+   "topHeight": 83,
+   "bottomHeight": 83
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tablet2": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tablet2.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 61,
+    "cornerRadiusY": 61
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 46,
+   "rightWidth": 46,
+   "topHeight": 46,
+   "bottomHeight": 46
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tablet3": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tablet3.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 81,
+    "cornerRadiusY": 81
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 60,
+   "rightWidth": 60,
+   "topHeight": 60,
+   "bottomHeight": 60
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tablet4": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tablet4.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 81,
+    "cornerRadiusY": 81
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 59,
+   "rightWidth": 59,
+   "topHeight": 59,
+   "bottomHeight": 59
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tablet5": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tablet5.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 75,
+    "cornerRadiusY": 75
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 46,
+   "rightWidth": 46,
+   "topHeight": 46,
+   "bottomHeight": 46
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.tv": {
+  "path": "/Library/Developer/DeviceKit/Chrome/tv.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 4,
+    "cornerRadiusY": 4
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 8,
+   "rightWidth": 8,
+   "topHeight": 8,
+   "bottomHeight": 8
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 40,
+    "cornerRadiusY": 40
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 34,
+   "rightWidth": 34,
+   "topHeight": 34,
+   "bottomHeight": 34
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch2": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch2.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 54,
+    "cornerRadiusY": 54
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 28,
+   "rightWidth": 28,
+   "topHeight": 28,
+   "bottomHeight": 28
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch2b": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch2b.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 61.5,
+    "cornerRadiusY": 61.5
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 28,
+   "rightWidth": 28,
+   "topHeight": 28,
+   "bottomHeight": 28
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch3b": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch3b.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 64,
+    "cornerRadiusY": 64
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch3s": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch3s.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 60,
+    "cornerRadiusY": 60
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch4": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch4.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 14.5,
+     "bottom": 0,
+     "right": 14.5
+    },
+    "cornerRadiusX": 85.2,
+    "cornerRadiusY": 85.2
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 45.5,
+   "rightWidth": 45.5,
+   "topHeight": 31,
+   "bottomHeight": 31
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch5b": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch5b.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 72.5,
+    "cornerRadiusY": 72.5
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch5s": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch5s.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 0,
+     "bottom": 0,
+     "right": 0
+    },
+    "cornerRadiusX": 65.5,
+    "cornerRadiusY": 65.5
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 22,
+   "rightWidth": 22,
+   "topHeight": 22,
+   "bottomHeight": 22
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ },
+ "com.apple.dt.devicekit.chrome.watch6": {
+  "path": "/Library/Developer/DeviceKit/Chrome/watch6.devicechrome/Contents/Resources/chrome.json",
+  "paths": {
+   "simpleOutsideBorder": {
+    "insets": {
+     "top": 0,
+     "left": 14.5,
+     "bottom": 0,
+     "right": 14.5
+    },
+    "cornerRadiusX": 85.2,
+    "cornerRadiusY": 85.2
+   }
+  },
+  "images_sizing": {
+   "leftWidth": 45.5,
+   "rightWidth": 45.5,
+   "topHeight": 31,
+   "bottomHeight": 31
+  },
+  "keys": [
+   "identifier",
+   "images",
+   "inputs",
+   "paths",
+   "resizeRects"
+  ]
+ }
+}

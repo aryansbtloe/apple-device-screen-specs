@@ -1,0 +1,89 @@
+iPhone 18 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-18-Pro	OK	0EF3339D-6212-462A-9303-F80997374D79	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 18 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-18-Pro-Max	OK	889404FF-79D6-4E11-8AC5-DD5A65FD1D8E	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone Duo	com.apple.CoreSimulator.SimDeviceType.iPhone-Duo	OK	6FE24E80-D7CD-4E19-9D5B-9DAD26E0204F	com.apple.CoreSimulator.SimRuntime.iOS-27-1
+iPhone 17 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-17-Pro	OK	90FF130D-0B57-47B3-8375-DA05E6544A8C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 17 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-17-Pro-Max	OK	948D8B24-17A6-4939-826B-CAFCD36E2272	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 17e	com.apple.CoreSimulator.SimDeviceType.iPhone-17e	OK	4DEFAAD8-CAF7-4449-B968-27C5C38FD032	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 17	com.apple.CoreSimulator.SimDeviceType.iPhone-17	OK	C85AFDFA-729B-4A56-A8F0-99E22CD96BBA	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone Air	com.apple.CoreSimulator.SimDeviceType.iPhone-Air	OK	485C4107-1855-4091-91A0-B220284D9F74	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 16 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-16-Pro-Max	OK	7C5D3FCA-4EB4-4271-9F48-18F70A546C10	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 16 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-16-Pro	OK	2149C4CE-62FB-4201-A4E4-971C2BDDA095	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 16	com.apple.CoreSimulator.SimDeviceType.iPhone-16	OK	53C4593D-1A5E-41FB-8D22-76CB00941B77	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 16e	com.apple.CoreSimulator.SimDeviceType.iPhone-16e	OK	D1D9EB72-A561-40CB-BDF2-FDB6C66D6F22	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 16 Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-16-Plus	OK	1FEE64F8-30A0-4BC2-B0CA-677A6124C45C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 15 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-15-Pro	OK	F67E6797-A544-46AE-8A80-3F10A2450317	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 15 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-15-Pro-Max	OK	1E3B3F3F-D425-4752-955A-FFC44C3C255D	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 15	com.apple.CoreSimulator.SimDeviceType.iPhone-15	OK	9CCEA657-DDD2-4457-A199-416ED91206E0	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 14 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-14-Pro	OK	815F2A62-E956-4A80-B6C3-9D9E6E40A46D	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 15 Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-15-Plus	OK	109B2D7B-3CB3-4C88-A0A5-2CD0E8C85E86	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 14	com.apple.CoreSimulator.SimDeviceType.iPhone-14	OK	01550847-B9C8-4AB7-9D6A-22D9D70A4D31	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 14 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-14-Pro-Max	OK	18AC3E6B-D8FF-4078-B68E-2CC5B0E960A3	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone SE (3rd generation)	com.apple.CoreSimulator.SimDeviceType.iPhone-SE-3rd-generation	OK	4AD32810-6CF0-4EAE-BC4E-EDFCA10F3EED	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 14 Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-14-Plus	OK	91D56F9D-B623-4039-9153-C51FD425C1BF	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 13 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-13-Pro-Max	OK	DFA9122F-4D81-4C40-BB08-5FE355C29394	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 13 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-13-Pro	OK	802BE3EF-6471-499A-A8A6-066337FAE9A9	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 13 mini	com.apple.CoreSimulator.SimDeviceType.iPhone-13-mini	OK	DF5D2BC1-202B-4928-AF86-892353172E0C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 13	com.apple.CoreSimulator.SimDeviceType.iPhone-13	OK	EBA3F98B-3A17-4295-80D9-21DB9999EBD0	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 12 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro-Max	OK	14E93961-CE6B-4357-BBDD-E3871FADB3B6	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 12 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-12-Pro	OK	7B4DE36A-7A15-4521-916A-3C9447AB285C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 12 mini	com.apple.CoreSimulator.SimDeviceType.iPhone-12-mini	OK	657A4251-7302-44A7-B62B-7CE97C62462A	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 12	com.apple.CoreSimulator.SimDeviceType.iPhone-12	OK	C815D076-11AC-401B-A445-3D2A92DD1924	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 11 Pro	com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro	OK	7004AA2E-1078-47C1-B94F-E8B8EED44F46	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone SE (2nd generation)	com.apple.CoreSimulator.SimDeviceType.iPhone-SE--2nd-generation-	OK	FE7EA729-4DDD-4960-86DA-BC86E2462869	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone 11	com.apple.CoreSimulator.SimDeviceType.iPhone-11	OK	5AEF8AD3-A912-46C1-A3AC-2B3EF4CF8F13	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone Xs	com.apple.CoreSimulator.SimDeviceType.iPhone-XS	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone X	com.apple.CoreSimulator.SimDeviceType.iPhone-X	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 8 Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 7 Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 6s	com.apple.CoreSimulator.SimDeviceType.iPhone-6s	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 11 Pro Max	com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro-Max	OK	093AF982-11C9-4E15-98B9-9498B416936C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPhone Xʀ	com.apple.CoreSimulator.SimDeviceType.iPhone-XR	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone Xs Max	com.apple.CoreSimulator.SimDeviceType.iPhone-XS-Max	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 8	com.apple.CoreSimulator.SimDeviceType.iPhone-8	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 7	com.apple.CoreSimulator.SimDeviceType.iPhone-7	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone SE (1st generation)	com.apple.CoreSimulator.SimDeviceType.iPhone-SE	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPhone 6s Plus	com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro 13-inch (M5) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-13-inch-M5-16GB	OK	693096D7-1DEB-413A-9129-C865DAF8B9A3	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 13-inch (M5)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-13-inch-M5-12GB	OK	4242BF64-DB6D-40DF-AC46-BA1B486907C8	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 11-inch (M5) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-M5-16GB	OK	F7067951-5540-4A9D-9FA1-5AA0CE657F4C	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 11-inch (M5)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-M5-12GB	OK	F8DEB9A6-FC7A-4F5D-9CE7-B4D35F1CA5FB	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 11-inch (M4) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-M4-16GB	OK	B60852EC-F450-4EE8-B72B-96674B86207E	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 11-inch (M4)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-M4-8GB	OK	75467058-5E76-4BE2-9C97-344C14D44AEE	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 13-inch (M4) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-13-inch-M4-16GB	OK	2E667CC9-BBAC-427D-96E9-AB4D8C3A4384	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro 13-inch (M4)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-13-inch-M4-8GB	OK	34D71409-46E2-46EC-B825-B7D9077A0938	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 13-inch (M4)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-13-inch-M4	OK	AB3D710A-F7C8-498C-8C84-366CA6A6080D	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 11-inch (M4)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-11-inch-M4	OK	F224427F-3A55-406E-B02F-EADF7B456535	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad (A16)	com.apple.CoreSimulator.SimDeviceType.iPad-A16	OK	4F54AFB7-1CB0-4BD0-93D0-DE4CC7EC06A4	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 13-inch (M3)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-13-inch-M3	OK	3E5826BD-FA10-46AE-B05F-089548FE8805	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 11-inch (M3)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-11-inch-M3	OK	05CCFA5E-BDEC-486D-8D85-8FD7E83E800D	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 11-inch (M2)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-11-inch-M2	OK	98C13A03-5022-4ECF-8D79-3EA2AEDE883A	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air 13-inch (M2)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-13-inch-M2	OK	EB48BD75-6D89-4D04-BDE8-20F140372506	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad mini (A17 Pro)	com.apple.CoreSimulator.SimDeviceType.iPad-mini-A17-Pro	OK	449992FF-9F96-42B5-B945-E51FB905E7FB	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (11-inch) (4th generation) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-4th-generation-16GB	OK	1632464E-137B-402D-B887-298535E01CA5	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (11-inch) (4th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-4th-generation-8GB	OK	58988BFE-9E51-4B74-B6A5-BA0324E98856	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (12.9-inch) (6th generation) (16GB)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-12-9-inch-6th-generation-16GB	OK	08EFD605-72DE-4A00-BB15-06D1A1DA8C59	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (12.9-inch) (6th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-12-9-inch-6th-generation-8GB	OK	56EBFA0C-4364-40F6-BE26-D57092EFA54A	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad (10th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-10th-generation	OK	7256ED55-B9B1-483A-9644-7985063F54BE	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air (5th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Air-5th-generation	OK	C3BF0F74-73B4-43A2-807C-ECEDFB210E31	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad mini (6th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-mini-6th-generation	OK	71AC2AB8-5ECD-4A53-BE9E-058680EDF4DF	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (11-inch) (3rd generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-11-inch-3rd-generation	OK	1C98D3B8-C21A-477D-ABD0-4C9931FC1B6E	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (12.9-inch) (5th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro-12-9-inch-5th-generation	OK	B213F9E2-EEE0-4A39-82BC-311F6E5137F0	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad (9th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-9th-generation	OK	75567554-2DF1-4F58-89BC-3FD43D02C9AD	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad (8th generation)	com.apple.CoreSimulator.SimDeviceType.iPad--8th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad mini (5th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-mini--5th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Air (4th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Air--4th-generation-	OK	AE6A6932-276E-48BD-AE1F-A05D091F64CA	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Air (3rd generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Air--3rd-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (12.9-inch) (4th generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---4th-generation-	OK	4521BCC3-5D51-411A-A85B-FA597B2C283B	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (12.9-inch) (3rd generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---3rd-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (10.5-inch)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad (6th generation)	com.apple.CoreSimulator.SimDeviceType.iPad--6th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (12.9-inch) (1st generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Air 2	com.apple.CoreSimulator.SimDeviceType.iPad-Air-2	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPod touch (7th generation)	com.apple.CoreSimulator.SimDeviceType.iPod-touch--7th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (11-inch) (2nd generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch---2nd-generation-	OK	C4327B44-6B52-4386-8601-B1C17A731001	com.apple.CoreSimulator.SimRuntime.iOS-27-0
+iPad Pro (11-inch) (1st generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad (7th generation)	com.apple.CoreSimulator.SimDeviceType.iPad--7th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (12.9-inch) (2nd generation)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad Pro (9.7-inch)	com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad (5th generation)	com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime
+iPad mini 4	com.apple.CoreSimulator.SimDeviceType.iPad-mini-4	UNSUPPORTED	not in supportedDeviceTypes of any installed iOS runtime

@@ -1,0 +1,584 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://bestlatestapps.com/api/schema/device.schema.json",
+ "title": "Apple device screen specs: dataset file",
+ "description": "devices.json from the Apple device screen specs dataset (CC BY 4.0, bestlatestapps.com). null always means 'not verified from an allowed source', never 'zero'.",
+ "type": "object",
+ "required": [
+  "meta",
+  "devices"
+ ],
+ "additionalProperties": false,
+ "properties": {
+  "meta": {
+   "type": "object",
+   "required": [
+    "name",
+    "version",
+    "generated",
+    "license",
+    "attribution",
+    "count"
+   ],
+   "properties": {
+    "name": {
+     "type": "string"
+    },
+    "version": {
+     "type": "string",
+     "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "generated": {
+     "type": "string",
+     "format": "date"
+    },
+    "license": {
+     "const": "CC-BY-4.0"
+    },
+    "attribution": {
+     "type": "string",
+     "minLength": 10
+    },
+    "homepage": {
+     "type": "string",
+     "format": "uri"
+    },
+    "count": {
+     "type": "integer",
+     "minimum": 1
+    },
+    "units": {
+     "type": "object"
+    }
+   }
+  },
+  "devices": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "$ref": "#/$defs/device"
+   }
+  }
+ },
+ "$defs": {
+  "size": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "required": [
+    "width",
+    "height"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "width": {
+     "type": "number",
+     "exclusiveMinimum": 0
+    },
+    "height": {
+     "type": "number",
+     "exclusiveMinimum": 0
+    }
+   }
+  },
+  "insets": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "required": [
+    "top",
+    "right",
+    "bottom",
+    "left"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "top": {
+     "type": "number",
+     "minimum": 0
+    },
+    "right": {
+     "type": "number",
+     "minimum": 0
+    },
+    "bottom": {
+     "type": "number",
+     "minimum": 0
+    },
+    "left": {
+     "type": "number",
+     "minimum": 0
+    }
+   }
+  },
+  "aspect": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "required": [
+    "ratio",
+    "fraction"
+   ],
+   "properties": {
+    "ratio": {
+     "type": "number",
+     "exclusiveMinimum": 0,
+     "description": "height / width of resolution_px"
+    },
+    "fraction": {
+     "type": "string",
+     "pattern": "^\\d+:\\d+$"
+    }
+   }
+  },
+  "nullableNumber": {
+   "type": [
+    "number",
+    "null"
+   ]
+  },
+  "screen": {
+   "type": "object",
+   "required": [
+    "diagonal_in",
+    "resolution_px",
+    "logical_resolution_pt",
+    "scale",
+    "native_scale",
+    "ppi",
+    "aspect_ratio",
+    "display_type",
+    "refresh_rate_max_hz",
+    "promotion",
+    "corner_radius_pt"
+   ],
+   "properties": {
+    "label": {
+     "type": "string"
+    },
+    "diagonal_in": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "exclusiveMinimum": 0,
+     "description": "Diagonal Apple markets, in inches"
+    },
+    "diagonal_rect_in": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "exclusiveMinimum": 0,
+     "description": "Diagonal of the bounding rectangle, when Apple states it (rounded-corner displays)"
+    },
+    "resolution_px": {
+     "$ref": "#/$defs/size",
+     "description": "Physical pixels. Portrait for iPhone/iPad/iPod/Watch, landscape for Mac"
+    },
+    "logical_resolution_pt": {
+     "$ref": "#/$defs/size",
+     "description": "UIKit/SwiftUI points, portrait"
+    },
+    "scale": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "enum": [
+      1,
+      2,
+      3,
+      null
+     ]
+    },
+    "native_scale": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "description": "Only set when pixels != points x scale (e.g. 8 Plus: 2.6087)"
+    },
+    "ppi": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "minimum": 50,
+     "maximum": 1000,
+     "description": "Pixels per inch as published by Apple"
+    },
+    "ppi_computed": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "description": "hypot(px) / diagonal_rect_in (or diagonal_in)"
+    },
+    "aspect_ratio": {
+     "$ref": "#/$defs/aspect"
+    },
+    "display_type": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "enum": [
+      "LCD",
+      "OLED",
+      "Tandem OLED",
+      "mini-LED",
+      "micro-OLED",
+      null
+     ]
+    },
+    "display_marketing_name": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "refresh_rate_max_hz": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "minimum": 1,
+     "maximum": 480
+    },
+    "refresh_rate_min_hz": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "refresh_rates_hz": {
+     "type": "array",
+     "items": {
+      "type": "integer"
+     }
+    },
+    "promotion": {
+     "type": [
+      "boolean",
+      "null"
+     ]
+    },
+    "always_on": {
+     "type": [
+      "boolean",
+      "null"
+     ]
+    },
+    "ltpo": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "corner_radius_pt": {
+     "$ref": "#/$defs/nullableNumber"
+    },
+    "display_area_mm2": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "minimum": 1
+    },
+    "total_pixels": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "pixel_pitch_um": {
+     "type": [
+      "number",
+      "null"
+     ]
+    },
+    "simulator_measurement": {
+     "type": "object",
+     "description": "Raw values read in Xcode Simulator (see sources/simulator/). bounds_pt/native_bounds_px/scale/native_scale are UIScreen values; status_bar_height_pt and home_indicator come from the key window. Present only for measured devices.",
+     "required": [
+      "device_type",
+      "runtime",
+      "bounds_pt",
+      "native_bounds_px",
+      "scale",
+      "native_scale"
+     ],
+     "properties": {
+      "device_type": {
+       "type": "string"
+      },
+      "runtime": {
+       "type": "string"
+      },
+      "bounds_pt": {
+       "$ref": "#/$defs/size"
+      },
+      "native_bounds_px": {
+       "$ref": "#/$defs/size"
+      },
+      "scale": {
+       "type": "number"
+      },
+      "native_scale": {
+       "type": "number"
+      },
+      "status_bar_height_pt": {
+       "type": "object",
+       "properties": {
+        "portrait": {
+         "type": [
+          "number",
+          "null"
+         ]
+        },
+        "landscape": {
+         "type": [
+          "number",
+          "null"
+         ]
+        }
+       }
+      },
+      "home_indicator": {
+       "type": "boolean"
+      },
+      "safe_area_insets_landscape_right_pt": {
+       "$ref": "#/$defs/insets"
+      },
+      "safe_area_insets_raw_unverified_pt": {
+       "type": "object"
+      },
+      "note": {
+       "type": "string"
+      }
+     }
+    }
+   }
+  },
+  "source": {
+   "type": "object",
+   "required": [
+    "url",
+    "publisher",
+    "used_for"
+   ],
+   "properties": {
+    "url": {
+     "type": "string",
+     "format": "uri"
+    },
+    "archive_url": {
+     "type": "string",
+     "format": "uri"
+    },
+    "publisher": {
+     "enum": [
+      "Apple",
+      "Wikipedia"
+     ]
+    },
+    "title": {
+     "type": "string"
+    },
+    "used_for": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     },
+     "minItems": 1
+    }
+   }
+  },
+  "device": {
+   "type": "object",
+   "required": [
+    "id",
+    "name",
+    "family",
+    "line",
+    "release_year",
+    "status",
+    "model_identifiers",
+    "screen",
+    "secondary_screens",
+    "safe_area_insets_pt",
+    "cutout",
+    "home_button",
+    "css",
+    "source_url",
+    "sources",
+    "provenance",
+    "partial"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "id": {
+     "type": "string",
+     "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+     "type": "string",
+     "minLength": 2
+    },
+    "family": {
+     "enum": [
+      "iphone",
+      "ipad",
+      "ipod-touch",
+      "apple-watch",
+      "mac",
+      "vision"
+     ]
+    },
+    "line": {
+     "type": "string"
+    },
+    "release_year": {
+     "type": "integer",
+     "minimum": 2007,
+     "maximum": 2100
+    },
+    "status": {
+     "enum": [
+      "released",
+      "announced",
+      "discontinued"
+     ]
+    },
+    "model_identifiers": {
+     "type": "array",
+     "uniqueItems": true,
+     "items": {
+      "type": "string",
+      "pattern": "^(iPhone|iPad|iPod|Watch|Mac|MacBook|MacBookAir|MacBookPro|iMac|RealityDevice)\\d+,\\d+$"
+     }
+    },
+    "model_identifiers_source": {
+     "enum": [
+      "apple",
+      "wikipedia",
+      null
+     ]
+    },
+    "case_size_mm": {
+     "type": "integer",
+     "minimum": 30,
+     "maximum": 60
+    },
+    "screen": {
+     "$ref": "#/$defs/screen"
+    },
+    "secondary_screens": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/screen"
+     }
+    },
+    "safe_area_insets_pt": {
+     "type": "object",
+     "required": [
+      "portrait",
+      "landscape"
+     ],
+     "additionalProperties": false,
+     "properties": {
+      "portrait": {
+       "$ref": "#/$defs/insets"
+      },
+      "landscape": {
+       "$ref": "#/$defs/insets"
+      }
+     }
+    },
+    "cutout": {
+     "enum": [
+      "none",
+      "notch",
+      "dynamic-island",
+      null
+     ]
+    },
+    "home_button": {
+     "type": [
+      "boolean",
+      "null"
+     ]
+    },
+    "biometric": {
+     "enum": [
+      "touch-id",
+      "face-id",
+      "optic-id",
+      null
+     ]
+    },
+    "css": {
+     "type": "object",
+     "required": [
+      "viewport_width",
+      "viewport_height",
+      "device_pixel_ratio"
+     ],
+     "additionalProperties": false,
+     "properties": {
+      "viewport_width": {
+       "type": [
+        "integer",
+        "null"
+       ]
+      },
+      "viewport_height": {
+       "type": [
+        "integer",
+        "null"
+       ]
+      },
+      "device_pixel_ratio": {
+       "type": [
+        "number",
+        "null"
+       ]
+      }
+     }
+    },
+    "source_url": {
+     "type": "string",
+     "format": "uri",
+     "pattern": "^https://(support\\.apple\\.com|www\\.apple\\.com|developer\\.apple\\.com)/"
+    },
+    "sources": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "$ref": "#/$defs/source"
+     }
+    },
+    "provenance": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "string"
+     },
+     "description": "Field -> how it was obtained, when not read directly from source_url"
+    },
+    "partial": {
+     "type": "boolean"
+    },
+    "notes": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  }
+ }
+}

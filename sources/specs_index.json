@@ -1,0 +1,1720 @@
+[
+ {
+  "family_index": "iphone",
+  "title": "iPhone 17e",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301285",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126470",
+  "specs_file": "sources/raw/specs/iphone-301285.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 18 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301316",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/148590",
+  "specs_file": "sources/raw/specs/iphone-301316.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 18 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301317",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/148591",
+  "specs_file": "sources/raw/specs/iphone-301317.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone Duo",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301318",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/148588",
+  "specs_file": "sources/raw/specs/iphone-301318.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 16e",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301076",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122208",
+  "specs_file": "sources/raw/specs/iphone-301076.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 17",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301247",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125089",
+  "specs_file": "sources/raw/specs/iphone-301247.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 17 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301245",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125090",
+  "specs_file": "sources/raw/specs/iphone-301245.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 17 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301246",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125091",
+  "specs_file": "sources/raw/specs/iphone-301246.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone Air",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301244",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125092",
+  "specs_file": "sources/raw/specs/iphone-301244.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 16",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301045",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121029",
+  "specs_file": "sources/raw/specs/iphone-301045.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 16 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301046",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121030",
+  "specs_file": "sources/raw/specs/iphone-301046.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 16 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301047",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121031",
+  "specs_file": "sources/raw/specs/iphone-301047.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 16 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301048",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121032",
+  "specs_file": "sources/raw/specs/iphone-301048.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 15",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300991",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111831",
+  "specs_file": "sources/raw/specs/iphone-300991.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 15 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301004",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111830",
+  "specs_file": "sources/raw/specs/iphone-301004.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 15 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300993",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111829",
+  "specs_file": "sources/raw/specs/iphone-300993.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 15 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/301003",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111828",
+  "specs_file": "sources/raw/specs/iphone-301003.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 14",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300878",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111850",
+  "specs_file": "sources/raw/specs/iphone-300878.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 14 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300879",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111854",
+  "specs_file": "sources/raw/specs/iphone-300879.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 14 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300880",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111849",
+  "specs_file": "sources/raw/specs/iphone-300880.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 14 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300881",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111846",
+  "specs_file": "sources/raw/specs/iphone-300881.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone SE (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300865",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111866",
+  "specs_file": "sources/raw/specs/iphone-300865.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 13",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300428",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111872",
+  "specs_file": "sources/raw/specs/iphone-300428.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 13 mini",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300426",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111873",
+  "specs_file": "sources/raw/specs/iphone-300426.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 13 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300429",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111871",
+  "specs_file": "sources/raw/specs/iphone-300429.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 13 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300430",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111870",
+  "specs_file": "sources/raw/specs/iphone-300430.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 12",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300241",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111876",
+  "specs_file": "sources/raw/specs/iphone-300241.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 12 mini",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300239",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111877",
+  "specs_file": "sources/raw/specs/iphone-300239.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 12 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300242",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111875",
+  "specs_file": "sources/raw/specs/iphone-300242.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 12 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/300240",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111874",
+  "specs_file": "sources/raw/specs/iphone-300240.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone SE (2nd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/509370",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111882",
+  "specs_file": "sources/raw/specs/iphone-509370.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 11",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/507882",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111865",
+  "specs_file": "sources/raw/specs/iphone-507882.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 11 Pro",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/507808",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111879",
+  "specs_file": "sources/raw/specs/iphone-507808.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 11 Pro Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/507845",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111878",
+  "specs_file": "sources/raw/specs/iphone-507845.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone XR",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/505602",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111868",
+  "specs_file": "sources/raw/specs/iphone-505602.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone XS",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/505753",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111881",
+  "specs_file": "sources/raw/specs/iphone-505753.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone XS Max",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/505716",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111880",
+  "specs_file": "sources/raw/specs/iphone-505716.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 8",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/504266",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111976",
+  "specs_file": "sources/raw/specs/iphone-504266.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 8 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/504267",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111950",
+  "specs_file": "sources/raw/specs/iphone-504267.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone X",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/504268",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111864",
+  "specs_file": "sources/raw/specs/iphone-504268.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 7",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/502272",
+  "year_introduced": "2016",
+  "specs_url": "https://support.apple.com/en-us/111943",
+  "specs_file": "sources/raw/specs/iphone-502272.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 7 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/502287",
+  "year_introduced": "2016",
+  "specs_url": "https://support.apple.com/en-us/111953",
+  "specs_file": "sources/raw/specs/iphone-502287.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone SE (1st generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/501343",
+  "year_introduced": "2016",
+  "specs_url": "https://support.apple.com/en-us/112005",
+  "specs_file": "sources/raw/specs/iphone-501343.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 6s",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/500016",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/111952",
+  "specs_file": "sources/raw/specs/iphone-500016.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 6s Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/500040",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/111996",
+  "specs_file": "sources/raw/specs/iphone-500040.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5c (8GB)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134505",
+  "year_introduced": "2014"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 6",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134711",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/111954",
+  "specs_file": "sources/raw/specs/iphone-134711.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 6 Plus",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134710",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/111940",
+  "specs_file": "sources/raw/specs/iphone-134710.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4s (8GB)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134093",
+  "year_introduced": "2013"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5c",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134094",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/111917",
+  "specs_file": "sources/raw/specs/iphone-134094.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5c",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134095",
+  "year_introduced": "2013"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5s",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134096",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/111973",
+  "specs_file": "sources/raw/specs/iphone-134096.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5s",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/134097",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/111973",
+  "specs_file": "sources/raw/specs/iphone-134097.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133778",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/112016",
+  "specs_file": "sources/raw/specs/iphone-133778.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 5 (GSM, CDMA)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133779",
+  "year_introduced": "2012"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4 (8GB)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133477",
+  "year_introduced": "2011"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4 (CDMA)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133177",
+  "year_introduced": "2011",
+  "specs_url": "https://support.apple.com/en-us/112562",
+  "specs_file": "sources/raw/specs/iphone-133177.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4 CDMA (8GB)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133466",
+  "year_introduced": "2011"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4S",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/133476",
+  "year_introduced": "2011",
+  "specs_url": "https://support.apple.com/en-us/112004",
+  "specs_file": "sources/raw/specs/iphone-133476.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 3GS (8GB)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/132932",
+  "year_introduced": "2010"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 4",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/132927",
+  "year_introduced": "2010",
+  "specs_url": "https://support.apple.com/en-us/112562",
+  "specs_file": "sources/raw/specs/iphone-132927.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 3GS",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/132537",
+  "year_introduced": "2009",
+  "specs_url": "https://support.apple.com/en-us/112307",
+  "specs_file": "sources/raw/specs/iphone-132537.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 3GS (China Mainland)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/132740",
+  "year_introduced": "2009"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone 3G",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/132035",
+  "year_introduced": "2008",
+  "specs_url": "https://support.apple.com/en-us/112496",
+  "specs_file": "sources/raw/specs/iphone-132035.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone (original)",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/131510",
+  "year_introduced": "2007",
+  "specs_url": "https://support.apple.com/en-us/112445",
+  "specs_file": "sources/raw/specs/iphone-131510.txt"
+ },
+ {
+  "family_index": "iphone",
+  "title": "iPhone Accessories",
+  "docs_url": "https://support.apple.com/en-us/docs/iphone/pl134",
+  "year_introduced": null
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M4) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301281",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126471",
+  "specs_file": "sources/raw/specs/ipad-301281.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M4) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301282",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126471",
+  "specs_file": "sources/raw/specs/ipad-301282.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M4) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301283",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126472",
+  "specs_file": "sources/raw/specs/ipad-301283.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M4) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301284",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126472",
+  "specs_file": "sources/raw/specs/ipad-301284.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (A16) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301079",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122240",
+  "specs_file": "sources/raw/specs/ipad-301079.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (A16) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301080",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122240",
+  "specs_file": "sources/raw/specs/ipad-301080.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M3) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301081",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122241",
+  "specs_file": "sources/raw/specs/ipad-301081.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M3) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301082",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122241",
+  "specs_file": "sources/raw/specs/ipad-301082.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M3) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301083",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122242",
+  "specs_file": "sources/raw/specs/ipad-301083.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M3) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301084",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122242",
+  "specs_file": "sources/raw/specs/ipad-301084.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (M5) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301270",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125406",
+  "specs_file": "sources/raw/specs/ipad-301270.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (M5) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301271",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125406",
+  "specs_file": "sources/raw/specs/ipad-301271.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 13-inch (M5) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301272",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125407",
+  "specs_file": "sources/raw/specs/ipad-301272.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 13-inch (M5) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301273",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125407",
+  "specs_file": "sources/raw/specs/ipad-301273.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M2) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301027",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119894",
+  "specs_file": "sources/raw/specs/ipad-301027.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 11-inch (M2) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301028",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119894",
+  "specs_file": "sources/raw/specs/ipad-301028.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M2) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301029",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119893",
+  "specs_file": "sources/raw/specs/ipad-301029.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 13-inch (M2) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301030",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119893",
+  "specs_file": "sources/raw/specs/ipad-301030.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (A17 Pro) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301063",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121456",
+  "specs_file": "sources/raw/specs/ipad-301063.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (A17 Pro) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301064",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121456",
+  "specs_file": "sources/raw/specs/ipad-301064.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (M4) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301031",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119892",
+  "specs_file": "sources/raw/specs/ipad-301031.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (M4) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301032",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119892",
+  "specs_file": "sources/raw/specs/ipad-301032.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 13-inch (M4) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301033",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119891",
+  "specs_file": "sources/raw/specs/ipad-301033.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 13-inch (M4) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/301034",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/119891",
+  "specs_file": "sources/raw/specs/ipad-301034.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (10th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300902",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111840",
+  "specs_file": "sources/raw/specs/ipad-300902.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (10th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300904",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111840",
+  "specs_file": "sources/raw/specs/ipad-300904.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (5th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300866",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111887",
+  "specs_file": "sources/raw/specs/ipad-300866.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (5th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300867",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111887",
+  "specs_file": "sources/raw/specs/ipad-300867.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (4th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300905",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111842",
+  "specs_file": "sources/raw/specs/ipad-300905.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (4th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300907",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111842",
+  "specs_file": "sources/raw/specs/ipad-300907.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (6th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300908",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111841",
+  "specs_file": "sources/raw/specs/ipad-300908.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300910",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111841",
+  "specs_file": "sources/raw/specs/ipad-300910.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (9th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300423",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111898",
+  "specs_file": "sources/raw/specs/ipad-300423.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (9th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300424",
+  "year_introduced": "2021"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (6th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300425",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111886",
+  "specs_file": "sources/raw/specs/ipad-300425.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (6th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300427",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111886",
+  "specs_file": "sources/raw/specs/ipad-300427.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro, 11-inch (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300346",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111897",
+  "specs_file": "sources/raw/specs/ipad-300346.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro, 11-inch (3rd generation) Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300348",
+  "year_introduced": "2021"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro, 12.9-inch (5th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300349",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111896",
+  "specs_file": "sources/raw/specs/ipad-300349.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro, 12.9-inch (5th generation) Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300351",
+  "year_introduced": "2021"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (8th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300200",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/118451",
+  "specs_file": "sources/raw/specs/ipad-300200.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (8th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300201",
+  "year_introduced": "2020"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (4th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300202",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111905",
+  "specs_file": "sources/raw/specs/ipad-300202.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (4th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/300203",
+  "year_introduced": "2020"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (2nd generation) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/509181",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/118452",
+  "specs_file": "sources/raw/specs/ipad-509181.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch (2nd generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/509203",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/118452",
+  "specs_file": "sources/raw/specs/ipad-509203.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (4th Generation) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/509192",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111977",
+  "specs_file": "sources/raw/specs/ipad-509192.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (4th Generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/509228",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111977",
+  "specs_file": "sources/raw/specs/ipad-509228.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (7th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/507974",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111911",
+  "specs_file": "sources/raw/specs/ipad-507974.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (7th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/507984",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111911",
+  "specs_file": "sources/raw/specs/ipad-507984.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506739",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111939",
+  "specs_file": "sources/raw/specs/ipad-506739.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air (3rd generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506749",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111939",
+  "specs_file": "sources/raw/specs/ipad-506749.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (5th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506704",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111904",
+  "specs_file": "sources/raw/specs/ipad-506704.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini (5th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506714",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111904",
+  "specs_file": "sources/raw/specs/ipad-506714.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (6th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/504852",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111957",
+  "specs_file": "sources/raw/specs/ipad-504852.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (6th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/504856",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111957",
+  "specs_file": "sources/raw/specs/ipad-504856.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506083",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111974",
+  "specs_file": "sources/raw/specs/ipad-506083.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 11-inch Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506094",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111974",
+  "specs_file": "sources/raw/specs/ipad-506094.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (3rd generation) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506047",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111979",
+  "specs_file": "sources/raw/specs/ipad-506047.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/506058",
+  "year_introduced": "2018",
+  "specs_url": "https://support.apple.com/en-us/111979",
+  "specs_file": "sources/raw/specs/ipad-506058.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (5th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503187",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111960",
+  "specs_file": "sources/raw/specs/ipad-503187.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (5th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503198",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111960",
+  "specs_file": "sources/raw/specs/ipad-503198.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (10.5-inch)  Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503659",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111927",
+  "specs_file": "sources/raw/specs/ipad-503659.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (10.5-inch) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503642",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111927",
+  "specs_file": "sources/raw/specs/ipad-503642.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (12.9-inch) (2nd generation) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503605",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111964",
+  "specs_file": "sources/raw/specs/ipad-503605.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/503620",
+  "year_introduced": "2017",
+  "specs_url": "https://support.apple.com/en-us/111964",
+  "specs_file": "sources/raw/specs/ipad-503620.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (9.7-inch)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/501360",
+  "year_introduced": "2016",
+  "specs_url": "https://support.apple.com/en-us/111965",
+  "specs_file": "sources/raw/specs/ipad-501360.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro (9.7-inch, Wi-Fi + Cellular)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/501377",
+  "year_introduced": "2016",
+  "specs_url": "https://support.apple.com/en-us/111965",
+  "specs_file": "sources/raw/specs/ipad-501377.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 4",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/500106",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112002",
+  "specs_file": "sources/raw/specs/ipad-500106.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 4 Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/500116",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112002",
+  "specs_file": "sources/raw/specs/ipad-500116.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (1st generation) Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/500278",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112024",
+  "specs_file": "sources/raw/specs/ipad-500278.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Pro 12.9-inch (1st generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/500285",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112024",
+  "specs_file": "sources/raw/specs/ipad-500285.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 2",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/135088",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/112017",
+  "specs_file": "sources/raw/specs/ipad-135088.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air 2 Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/135089",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/112017",
+  "specs_file": "sources/raw/specs/ipad-135089.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 3",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/135090",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/112018",
+  "specs_file": "sources/raw/specs/ipad-135090.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 3 Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/135091",
+  "year_introduced": "2014",
+  "specs_url": "https://support.apple.com/en-us/112018",
+  "specs_file": "sources/raw/specs/ipad-135091.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 3 Wi-Fi Cellular (China Mainland)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/135092",
+  "year_introduced": "2014"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/134322",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/112020",
+  "specs_file": "sources/raw/specs/ipad-134322.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Air WiFi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/134321",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/112020",
+  "specs_file": "sources/raw/specs/ipad-134321.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 2",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/134323",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/112019",
+  "specs_file": "sources/raw/specs/ipad-134323.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini 2 WiFi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/134324",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/112019",
+  "specs_file": "sources/raw/specs/ipad-134324.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini Wi-Fi",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/134338",
+  "year_introduced": "2013"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133608",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111992",
+  "specs_file": "sources/raw/specs/ipad-133608.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (3rd generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133610",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111992",
+  "specs_file": "sources/raw/specs/ipad-133610.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (4th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133846",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111993",
+  "specs_file": "sources/raw/specs/ipad-133846.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad (4th generation) Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133847",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111993",
+  "specs_file": "sources/raw/specs/ipad-133847.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133849",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111978",
+  "specs_file": "sources/raw/specs/ipad-133849.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini Wi-Fi + Cellular",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133850",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111978",
+  "specs_file": "sources/raw/specs/ipad-133850.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad mini Wi-Fi + Cellular (MM)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133851",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/111978",
+  "specs_file": "sources/raw/specs/ipad-133851.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad 2",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133215",
+  "year_introduced": "2011",
+  "specs_url": "https://support.apple.com/en-us/111990",
+  "specs_file": "sources/raw/specs/ipad-133215.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad 2 Wi-Fi + 3G",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133216",
+  "year_introduced": "2011",
+  "specs_url": "https://support.apple.com/en-us/111990",
+  "specs_file": "sources/raw/specs/ipad-133216.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad 2 Wi-Fi + 3G (Verizon)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/133217",
+  "year_introduced": "2011",
+  "specs_url": "https://support.apple.com/en-us/111990",
+  "specs_file": "sources/raw/specs/ipad-133217.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/132814",
+  "year_introduced": "2010",
+  "specs_url": "https://support.apple.com/en-us/112438",
+  "specs_file": "sources/raw/specs/ipad-132814.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Wi-Fi + 3G",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/132844",
+  "year_introduced": "2010",
+  "specs_url": "https://support.apple.com/en-us/112438",
+  "specs_file": "sources/raw/specs/ipad-132844.txt"
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/pl220",
+  "year_introduced": null
+ },
+ {
+  "family_index": "ipad",
+  "title": "iPad Accessories",
+  "docs_url": "https://support.apple.com/en-us/docs/ipad/pl221",
+  "year_introduced": null
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (7th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/507223",
+  "year_introduced": "2019",
+  "specs_url": "https://support.apple.com/en-us/111961",
+  "specs_file": "sources/raw/specs/ipod-507223.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (6th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/135428",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112023",
+  "specs_file": "sources/raw/specs/ipod-135428.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch 16 GB (5th generation, Mid 2013)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/134023",
+  "year_introduced": "2013",
+  "specs_url": "https://support.apple.com/en-us/118467",
+  "specs_file": "sources/raw/specs/ipod-134023.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (5th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/133777",
+  "year_introduced": "2012",
+  "specs_url": "https://support.apple.com/en-us/112021",
+  "specs_file": "sources/raw/specs/ipod-133777.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (4th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/133467",
+  "year_introduced": "2011"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (4th generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/133019",
+  "year_introduced": "2010",
+  "specs_url": "https://support.apple.com/en-us/112431",
+  "specs_file": "sources/raw/specs/ipod-133019.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch 32GB 64GB (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/132670",
+  "year_introduced": "2009",
+  "specs_url": "https://support.apple.com/en-us/112461",
+  "specs_file": "sources/raw/specs/ipod-132670.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch 8GB (2nd Generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/132641",
+  "year_introduced": "2009",
+  "specs_url": "https://support.apple.com/en-us/112319",
+  "specs_file": "sources/raw/specs/ipod-132641.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (2nd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/132054",
+  "year_introduced": "2008",
+  "specs_url": "https://support.apple.com/en-us/112319",
+  "specs_file": "sources/raw/specs/ipod-132054.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch (1st Generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/131660",
+  "year_introduced": "2007",
+  "specs_url": "https://support.apple.com/en-us/112532",
+  "specs_file": "sources/raw/specs/ipod-131660.txt"
+ },
+ {
+  "family_index": "ipod",
+  "title": "iPod touch",
+  "docs_url": "https://support.apple.com/en-us/docs/ipod/pl113",
+  "year_introduced": null
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch SE (3rd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl654",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125094",
+  "specs_file": "sources/raw/specs/watch-pl654.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Ultra 3",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl653",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125095",
+  "specs_file": "sources/raw/specs/watch-pl653.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Ultra 2",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/301002",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111832",
+  "specs_file": "sources/raw/specs/watch-301002.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch SE (2nd generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl292",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111853",
+  "specs_file": "sources/raw/specs/watch-pl292.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Series 8",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl293",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111848",
+  "specs_file": "sources/raw/specs/watch-pl293.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Ultra",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/300895",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111852",
+  "specs_file": "sources/raw/specs/watch-300895.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Series 7",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl194",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111909",
+  "specs_file": "sources/raw/specs/watch-pl194.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch SE (1st generation)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl290",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111862",
+  "specs_file": "sources/raw/specs/watch-pl290.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Edition (1st gen)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl283",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112011",
+  "specs_file": "sources/raw/specs/watch-pl283.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Sport (1st gen)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl282",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112010",
+  "specs_file": "sources/raw/specs/watch-pl282.txt"
+ },
+ {
+  "family_index": "watch",
+  "title": "Apple Watch Standard (1st gen)",
+  "docs_url": "https://support.apple.com/en-us/docs/watch/pl281",
+  "year_introduced": "2015",
+  "specs_url": "https://support.apple.com/en-us/112009",
+  "specs_file": "sources/raw/specs/watch-pl281.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (13-inch, M5)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301288",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126320",
+  "specs_file": "sources/raw/specs/mac-301288.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (15-inch, M5)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301287",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126321",
+  "specs_file": "sources/raw/specs/mac-301287.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Neo",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301292",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126322",
+  "specs_file": "sources/raw/specs/mac-301292.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M5 Pro or M5 Max)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301289",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126318",
+  "specs_file": "sources/raw/specs/mac-301289.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (16-inch, M5 Pro or M5 Max)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301286",
+  "year_introduced": "2026",
+  "specs_url": "https://support.apple.com/en-us/126319",
+  "specs_file": "sources/raw/specs/mac-301286.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (13-inch, M4, 2025)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301086",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122209",
+  "specs_file": "sources/raw/specs/mac-301086.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (15-inch, M4, 2025)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301087",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/122210",
+  "specs_file": "sources/raw/specs/mac-301087.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M5)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301274",
+  "year_introduced": "2025",
+  "specs_url": "https://support.apple.com/en-us/125405",
+  "specs_file": "sources/raw/specs/mac-301274.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, 2024, Four ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301066",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121557",
+  "specs_file": "sources/raw/specs/mac-301066.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, 2024, Two ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301065",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121556",
+  "specs_file": "sources/raw/specs/mac-301065.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (13-inch, M3, 2024)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301019",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/118551",
+  "specs_file": "sources/raw/specs/mac-301019.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (15-inch, M3, 2024)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301020",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/118552",
+  "specs_file": "sources/raw/specs/mac-301020.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M4 Pro or M4 Max, 2024)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301069",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121553",
+  "specs_file": "sources/raw/specs/mac-301069.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M4, 2024)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301068",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121552",
+  "specs_file": "sources/raw/specs/mac-301068.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (16-inch, 2024)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301070",
+  "year_introduced": "2024",
+  "specs_url": "https://support.apple.com/en-us/121554",
+  "specs_file": "sources/raw/specs/mac-301070.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, M3, 2023, Four ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301009",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/117734",
+  "specs_file": "sources/raw/specs/mac-301009.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, M3, 2023, Two ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301008",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/117733",
+  "specs_file": "sources/raw/specs/mac-301008.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (15-inch, M2, 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300954",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111346",
+  "specs_file": "sources/raw/specs/mac-300954.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300925",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111340",
+  "specs_file": "sources/raw/specs/mac-300925.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M3 Pro or M3 Max, Nov 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301011",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/117736",
+  "specs_file": "sources/raw/specs/mac-301011.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, M3, Nov 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301010",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/117735",
+  "specs_file": "sources/raw/specs/mac-301010.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (16-inch, 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300926",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/111838",
+  "specs_file": "sources/raw/specs/mac-300926.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (16-inch, Nov 2023)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/301012",
+  "year_introduced": "2023",
+  "specs_url": "https://support.apple.com/en-us/117737",
+  "specs_file": "sources/raw/specs/mac-301012.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (M2, 2022)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300872",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111867",
+  "specs_file": "sources/raw/specs/mac-300872.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (13-inch, M2, 2022)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300873",
+  "year_introduced": "2022",
+  "specs_url": "https://support.apple.com/en-us/111869",
+  "specs_file": "sources/raw/specs/mac-300873.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, M1, 2021)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300352",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111895",
+  "specs_file": "sources/raw/specs/mac-300352.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (24-inch, M1, 2021)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300355",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111895",
+  "specs_file": "sources/raw/specs/mac-300355.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (14-inch, 2021)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300451",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111902",
+  "specs_file": "sources/raw/specs/mac-300451.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (16-inch, 2021)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300452",
+  "year_introduced": "2021",
+  "specs_url": "https://support.apple.com/en-us/111901",
+  "specs_file": "sources/raw/specs/mac-300452.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "iMac (Retina 5K, 27-inch, 2020)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300198",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111913",
+  "specs_file": "sources/raw/specs/mac-300198.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (M1, 2020)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300267",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111883",
+  "specs_file": "sources/raw/specs/mac-300267.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Air (Retina, 13-inch, 2020)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/508935",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111991",
+  "specs_file": "sources/raw/specs/mac-508935.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300177",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111339",
+  "specs_file": "sources/raw/specs/mac-300177.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300178",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111981",
+  "specs_file": "sources/raw/specs/mac-300178.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Pro (13-inch, M1, 2020)",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/300266",
+  "year_introduced": "2020",
+  "specs_url": "https://support.apple.com/en-us/111893",
+  "specs_file": "sources/raw/specs/mac-300266.txt"
+ },
+ {
+  "family_index": "mac",
+  "title": "MacBook Neo",
+  "docs_url": "https://support.apple.com/en-us/docs/mac/pl655",
+  "year_introduced": null
+ }
+]

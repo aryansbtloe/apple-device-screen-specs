@@ -1,0 +1,15 @@
+{
+  "name": "apple-device-screen-specs",
+  "version": "0.1.0",
+  "description": "Open dataset of Apple device screen specs (iPhone, iPad, Apple Watch, iPod touch, Mac, Vision Pro): points, pixels, scale, PPI, CSS viewport. Data CC BY 4.0, code MIT.",
+  "main": "data/devices.json",
+  "files": ["data/", "schema/"],
+  "scripts": {
+    "build": "python3 scripts/build_dataset.py",
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": ["iphone", "ipad", "apple-watch", "screen-size", "viewport", "resolution", "ppi", "dataset", "ios", "devicePixelRatio"],
+  "homepage": "https://bestlatestapps.com/tools/iphone-screen-sizes/",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {"ajv": "^8.17.1", "ajv-formats": "^3.0.1"}
+}
